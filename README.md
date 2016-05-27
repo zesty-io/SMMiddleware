@@ -6,13 +6,13 @@ From ERP, CRM, ESP, internal custom systems, or any network endpoint to website.
 
 Whatever is needed, this is the layer where decisions are made without bastardizing marketing software that powers websites. 
 
-## Smiddleware Benefits
+## SMiddleware Benefits
 - Marketing gains agility by not losing updating abilities or control of their presentation to over modification.
 - Marketing software does not gain new security vulnerabilities through modification.
 - Operations are abstracted and become more manageable
 - IT gains control of the nuts and bolts without needed to know how to modify hundreds of different 
 
-## Making the transition to Smiddleware
+## Making the transition to SMiddleware
 **Marketing Implementers**
 When creating integrations, do not modify the codebase you are building websites in. Use network requests and software hooks to process captured data.
 
@@ -26,4 +26,4 @@ PHP was decided as the codebase language because
 - PHP is open source, has a large community, and plenty of integrations hooks.
 
 ## Open-source
-Please feel free to express your ideas or extend this codebase. This codebase is a mindset, not an end all. Ultimately you can maintain your own Smiddleware on any language you are comfortable with.
+Please feel free to express your ideas or extend this codebase. This codebase is a mindset, not an end all. Ultimately you can maintain your own SMiddleware on any language you are comfortable with.
