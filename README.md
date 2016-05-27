@@ -11,7 +11,7 @@ Whatever is needed, this is the layer where decisions are made without basterdiz
 - Marketing software does not gain new security vunrebilities through modification
 - Operations are abstracted and become more manageable
 - IT gains control of the nuts and bolts without needed to know how to modify hundreds of different 
-- 
+
 ## Making the transition to Smiddleware
 **Marketing Implmentaters**
 When creating integrations, do not modifiy the codebase you are building websites in. Use network requests and software hooks to process captured data.
