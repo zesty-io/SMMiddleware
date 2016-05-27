@@ -1,4 +1,4 @@
-# Smiddleware
+# SMiddleware
 A middleware framework to manage abstracted sales and marketing software connections, integrations, and operations.
 
 From website to ERP, CRM, ESP, internal custom systems, or any network endpoint.
