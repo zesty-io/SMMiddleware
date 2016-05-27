@@ -10,7 +10,7 @@ Whatever is needed, this is the layer where decisions are made without bastardiz
 - Marketing gains agility by not losing updating abilities or control of their presentation to over modification.
 - Marketing software does not gain new security vulnerabilities through modification.
 - Operations are abstracted and become more manageable
-- IT gains control of the nuts and bolts without needed to know how to modify hundreds of different 
+- IT gains control of the nuts and bolts without needed to know how to modify hundreds of different existing and emerging software
 
 ## Making the transition to SMiddleware
 **Marketing Implementers**
