@@ -1,5 +1,5 @@
 # SMMiddleware
-A middleware framework to manage abstracted sales and marketing software connections, integrations, and operations.
+SMMiddleware, Sales and Marketing Middleware, is a middleware framework to manage abstracted sales and marketing software connections, integrations, and operations.
 
 From website to ERP, CRM, ESP, internal custom systems, or any network endpoint.
 From ERP, CRM, ESP, internal custom systems, or any network endpoint to website.
